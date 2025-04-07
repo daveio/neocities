@@ -6,3 +6,8 @@ env_file = '.env'
 
 [tools]
 'gem:neocities' = { version = 'latest' }
+
+[tasks]
+'push' = { run = 'neocities push --prune src/' }
+'info' = { run = 'neocities info' }
+'pull' = { run = 'neocities pull' }
