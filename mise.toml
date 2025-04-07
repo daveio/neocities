@@ -5,4 +5,4 @@ NEOCITIES_MISE_ACTIVE = "true"
 env_file = '.env'
 
 [tools]
-ruby = '3.4.2'
+'gem:neocities' = { version = 'latest' }
