@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       tailwindcss:
-        specifier: '3'
+        specifier: 3.4.17
         version: 3.4.17
 
 packages:
