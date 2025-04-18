@@ -1,11 +1,11 @@
 [env]
-NEOCITIES_MISE_ACTIVE = "true"
+NEOCITIES_MISE_ACTIVE = 'true'
 
 [settings]
 env_file = '.env'
 
 [tools]
-'gem:neocities' = { version = 'latest' }
+'gem:neocities' = '0.0.20'
 
 [tasks]
 'push' = { run = 'neocities push --prune src/' }
