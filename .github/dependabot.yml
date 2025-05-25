@@ -7,3 +7,24 @@ updates:
     open-pull-requests-limit: 100
     assignees:
       - daveio
+  - package-ecosystem: bun
+    directory: /
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 100
+    assignees:
+      - daveio
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 100
+    assignees:
+      - daveio
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 100
+    assignees:
+      - daveio
