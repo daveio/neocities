@@ -11,7 +11,7 @@
   "license": "ISC",
   "packageManager": "bun@1.2.13",
   "dependencies": {
-    "tailwindcss": "4.1.7"
+    "tailwindcss": "4.1.8"
   },
   "engines": {
     "bun": "~1.2.13",
